@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Samir 
+## 👋 Hi, I'm Samir (aka Semmy)
 
 I'm a first-year Electrical and Electronic Engineering student at Queen Mary University of London.  
 I'm passionate about circuits, embedded systems, and exploring how electronics can be used for sustainable innovation.
@@ -15,11 +15,12 @@ I'm passionate about circuits, embedded systems, and exploring how electronics c
 - Fluent in Italian, English, and Bengali
 - I enjoy watching Chinese, Korean, and Japanese dramas 🎬 and learning about their cultures — honestly, I’ll watch anything interesting 😤
 
-### 📈 GitHub Stats
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadsamir25&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsamir25&layout=compact&theme=tokyonight)
+## 📈 GitHub Stats  
+![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Semmy348&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Semmy348&layout=compact&theme=tokyonight)
 
 ### 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/mohammadsamir25/) | [Portfolio Website](In Progress‼️) | [Email](samirmohammad2507@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohammadsamir25/) | [Portfolio Website](In Progress‼️) | [Email](mailto:samirmohammad2507@gmail.com)
 
 
+*“Strive for progress, not perfection.”*
